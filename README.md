@@ -5,7 +5,7 @@ Repositório acadêmico para armazenar exercícios, relatórios e projetos desen
 ## Estrutura do Repositório
 
 ```
-📁 C202-Algoritmos-Estruturas
+📁 Laboratorio_C202
 ├── Arquivos/            → Manipulação de arquivos com C++
 ├── ExerciciosLab/       → Exercícios propostos no laboratório
 ├── Funções/             → Exercícios com funções em C++
@@ -30,17 +30,17 @@ Repositório acadêmico para armazenar exercícios, relatórios e projetos desen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Izalp/C202-Algoritmos-Estruturas.git
+   git clone https://github.com/Izalp/Laboratorio_C202.git
    ```
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd C202-Algoritmos-Estruturas
+   cd Laboratorio_C202
    ```
 
 3. Navegue até o diretório desejado:
    ```bash
-   cd Funções
+   cd Funcoes
    ```
 
 4. Compile e execute um arquivo `.cpp`:
