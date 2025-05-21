@@ -6,8 +6,8 @@ Repositório acadêmico para armazenar exercícios, relatórios e projetos desen
 
 ```
 📁 C202-Algoritmos-Estruturas
-├── Arquivos             → Manipulação de arquivos com C++
-├── ExerciciosLab        → Exercícios propostos no laboratório
+├── Arquivos/            → Manipulação de arquivos com C++
+├── ExerciciosLab/       → Exercícios propostos no laboratório
 ├── Funções/             → Exercícios com funções em C++
 ├── IfElse/              → Uso de estruturas condicionais
 ├── LoopFor/             → Estruturas de repetição com for
