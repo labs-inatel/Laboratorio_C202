@@ -30,7 +30,7 @@ Repositório acadêmico para armazenar exercícios, relatórios e projetos desen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/C202-Algoritmos-Estruturas.git
+   git clone https://github.com/Izalp/C202-Algoritmos-Estruturas.git
    ```
 
 2. Acesse a pasta do projeto:
